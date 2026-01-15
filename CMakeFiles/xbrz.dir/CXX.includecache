@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ppsspp_config.h
+TargetConditionals.h
+-
+
+/home/pi/ppsspp/ext/xbrz/config.h
+
+/home/pi/ppsspp/ext/xbrz/xbrz.cpp
+xbrz.h
+/home/pi/ppsspp/ext/xbrz/xbrz.h
+cmath
+-
+cassert
+-
+algorithm
+-
+limits
+-
+vector
+-
+
+/home/pi/ppsspp/ext/xbrz/xbrz.h
+ppsspp_config.h
+/home/pi/ppsspp/ext/xbrz/ppsspp_config.h
+cstddef
+-
+stdint.h
+-
+cstdint
+-
+limits
+-
+config.h
+/home/pi/ppsspp/ext/xbrz/config.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libcityhash.a CMakeFiles/cityhash.dir/ext/cityhash/city.cpp.o
+/usr/bin/ranlib lib/libcityhash.a

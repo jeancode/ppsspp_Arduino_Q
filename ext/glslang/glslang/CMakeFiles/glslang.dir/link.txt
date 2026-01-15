@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libglslang.a CMakeFiles/glslang.dir/CInterface/glslang_c_interface.cpp.o
+/usr/bin/ranlib ../../../lib/libglslang.a

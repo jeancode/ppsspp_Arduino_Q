@@ -1,0 +1,116 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/pi/ppsspp/ext/glslang/glslang/HLSL/hlslAttributes.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslAttributes.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslAttributes.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/HLSL/hlslGrammar.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslGrammar.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslGrammar.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/HLSL/hlslOpMap.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslOpMap.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslOpMap.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/HLSL/hlslParseHelper.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslParseHelper.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslParseHelper.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/HLSL/hlslParseables.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslParseables.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslParseables.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/HLSL/hlslScanContext.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslScanContext.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslScanContext.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/HLSL/hlslTokenStream.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslTokenStream.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/HLSL/hlslTokenStream.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/Constant.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/Constant.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/Constant.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/InfoSink.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/InfoSink.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/InfoSink.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/Initialize.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/Initialize.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/Initialize.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/IntermTraverse.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/IntermTraverse.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/IntermTraverse.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/Intermediate.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/Intermediate.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/Intermediate.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/ParseContextBase.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/ParseContextBase.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/ParseContextBase.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/ParseHelper.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/ParseHelper.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/ParseHelper.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/PoolAlloc.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/PoolAlloc.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/PoolAlloc.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/RemoveTree.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/RemoveTree.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/RemoveTree.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/Scan.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/Scan.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/Scan.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/ShaderLang.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/ShaderLang.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/ShaderLang.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/SymbolTable.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/SymbolTable.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/SymbolTable.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/Versions.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/Versions.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/Versions.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/attribute.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/attribute.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/attribute.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/glslang_tab.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/glslang_tab.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/glslang_tab.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/intermOut.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/intermOut.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/intermOut.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/iomapper.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/iomapper.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/iomapper.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/limits.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/limits.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/limits.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/linkValidate.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/linkValidate.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/linkValidate.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/parseConst.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/parseConst.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/parseConst.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/preprocessor/Pp.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/Pp.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/Pp.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/preprocessor/PpAtom.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpAtom.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpAtom.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/preprocessor/PpContext.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpContext.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpContext.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/preprocessor/PpScanner.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpScanner.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpScanner.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/preprocessor/PpTokens.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpTokens.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpTokens.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/propagateNoContraction.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/propagateNoContraction.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/propagateNoContraction.cpp.o"
+  "/home/pi/ppsspp/ext/glslang/glslang/MachineIndependent/reflection.cpp" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/reflection.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/MachineIndependent/reflection.cpp.o"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx.cxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx.pch"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx" "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx.pch"
+  )
+set(CMAKE_CXX_COMPILER_ID "Clang")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "ASSETS_DIR=\"/usr/local/share/ppsspp/assets/\""
+  "ENABLE_HLSL"
+  "ENABLE_OPT=0"
+  "GLSLANG_OSINCLUDE_UNIX"
+  "PNG_ARM_NEON_OPT=0"
+  "USING_GLES2"
+  "VK_USE_PLATFORM_XLIB_KHR"
+  "_FILE_OFFSET_BITS=64"
+  "_LARGEFILE64_SOURCE=1"
+  "_XOPEN_SOURCE=700"
+  "_XOPEN_SOURCE_EXTENDED"
+  "__BSD_VISIBLE=1"
+  "__STDC_CONSTANT_MACROS"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../ext/glslang"
+  "../ext/glew"
+  "../"
+  "include"
+  "/opt/vc/include"
+  "/opt/vc/include/interface/vcos/pthreads"
+  "/opt/vc/include/interface/vmcx_host/linux"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/pi/ppsspp/build/ext/glslang/OGLCompilersDLL/CMakeFiles/OGLCompiler.dir/DependInfo.cmake"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/OSDependent/Unix/CMakeFiles/OSDependent.dir/DependInfo.cmake"
+  "/home/pi/ppsspp/build/ext/glslang/glslang/CMakeFiles/GenericCodeGen.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

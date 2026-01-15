@@ -1,0 +1,24 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/addr_is_reserved.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/connecthostport.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/igd_desc_parse.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/minisoap.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/minissdpc.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/miniupnpc.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/miniwget.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/minixml.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/minixmlvalid.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/portlistingparse.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/receivedata.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/upnpcommands.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/upnpdev.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/upnperrors.c.o"
+  "CMakeFiles/miniupnpc.dir/ext/miniupnp/miniupnpc/upnpreplyparse.c.o"
+  "lib/libminiupnpc.a"
+  "lib/libminiupnpc.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/miniupnpc.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

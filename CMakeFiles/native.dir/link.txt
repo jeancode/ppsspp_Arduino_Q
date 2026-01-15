@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libnative.a CMakeFiles/native.dir/SDL/SDLJoystick.cpp.o CMakeFiles/native.dir/SDL/SDLMain.cpp.o CMakeFiles/native.dir/SDL/SDLGLGraphicsContext.cpp.o CMakeFiles/native.dir/SDL/SDLVulkanGraphicsContext.cpp.o CMakeFiles/native.dir/Common/Render/Text/draw_text_qt.cpp.o CMakeFiles/native.dir/ext/jpge/jpgd.cpp.o CMakeFiles/native.dir/ext/jpge/jpge.cpp.o
+/usr/bin/ranlib lib/libnative.a
