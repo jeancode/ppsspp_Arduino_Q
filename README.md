@@ -5,6 +5,9 @@
 ![GPU](https://img.shields.io/badge/GPU-Adreno%20702-green)
 ![License](https://img.shields.io/badge/License-GPL%202.0-red)
 
+
+![Image](./Gemini_Generated_Image_ytvighytvighytvi.png)
+
 Esta es una versión optimizada y **pre-compilada** de PPSSPP diseñada específicamente para exprimir el hardware de la **Arduino Uno Q**. Aprovechando el SoC Qualcomm Dragonwing, este port permite emulación de PSP a 60 FPS con soporte nativo para Vulkan.
 
 ---
